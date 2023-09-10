@@ -79,4 +79,6 @@ mkdir my_project
 cd my_project
 git init
 ```
-Это лишь некоторые функции markdown.
+Это лишь некоторые функции markdown.'
+
+![./index.jpeg]
